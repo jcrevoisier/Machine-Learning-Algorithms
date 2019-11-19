@@ -1,3 +1,3 @@
 # Machine-Learning-Algorithms
 
-Quick examples of basi Machine Learning algorithms
+Quick examples of basic Machine Learning algorithms
